@@ -138,8 +138,12 @@ c. Test Operations :
    - Applied unique constraints on email addresses to prevent duplicate user registrations and ensured each user is uniquely identified.
 
 => Doctor Schema
+
 ![alt text](public/image.png)
+
+
 => Appointment Schema
+
 ![alt text](public/image-1.png)
 
 ### 6. **Error Handling and Response Management**
@@ -149,5 +153,5 @@ c. Test Operations :
 
 ### 7. **Scalability and Extensibility**
    - The project follows a **modular architecture**, making it easy to extend and add new features.
-   - Each component (controllers, services, repositories, and middleware) is separated to ensure high maintainability.
+   - Each component (routes, controllers, services, and middleware) is separated to ensure high maintainability.
    - The code is written with scalability in mind, allowing easy integration of additional features, such as billing systems or reporting modules.

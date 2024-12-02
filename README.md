@@ -63,7 +63,7 @@ Before you begin, ensure you have met the following requirements:
    
     ```bash
     PORT=3000
-    MONGO_URI=mongodb+srv://harshitbisht1210:kVWvymoBq2ZiBffp@todoapp.uwzwekw.mongodb.net/?retryWrites=true&w=majority&appName=ToDoApp
+    MONGO_URI=type_db_name_here
     JWT_SECRET=hey-patient
     ```
 4. **Start MongoDB server**
